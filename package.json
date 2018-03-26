@@ -16,5 +16,15 @@
     "http": "0.0.0",
     "https": "^1.0.0",
     "path": "^0.12.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chvnaveenkumar/northwestdorms.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chvnaveenkumar/northwestdorms/issues"
+  },
+  "homepage": "https://github.com/chvnaveenkumar/northwestdorms#readme",
+  "devDependencies": {},
+  "keywords": []
 }
